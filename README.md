@@ -1,16 +1,19 @@
-# trip_aplication
+<h1 align="center">
+ " Trip Aplication "
+</h1>
 
-A new Flutter project.
+<br>
 
-## Getting Started
+<h1 align="center">
+    <img alt="Trip Aplication" title="Trip Aplication" src="assets/docs/one.jpg" width=230/>
+    <img alt="Trip Aplication" title="Trip Aplication" src="assets/docs/two.jpg" width=230/>
+    <img alt="Trip Aplication" title="Trip Aplication" src="assets/docs/three.jpg" width=230/>
+</h1>
 
-This project is a starting point for a Flutter application.
+## 💻 Projeto
 
-A few resources to get you started if this is your first Flutter project:
+Aplicação criada a partir do [tutorial](https://www.youtube.com/watch?v=uqm6U5_bcH0&list=PLf-j0Hs0PF3uxzMCFLlfJ9W3hRxLzHPGX&index=2), disponível no canal [Afgprogrammer](https://www.youtube.com/Afgprogrammer).<br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 🚀 Tecnologia ultilizada
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Aplicação criada com **[Flutter](https://flutter.dev/)**.
